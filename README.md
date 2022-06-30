@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AllanMsiska
 - 👀 I’m interested in data analytics and the scope of making data driven decisions. I'm always trying to learn new things to broaden my understanding of Data analytics.
-- 🌱 I’m currently learning SQL, Tableau, R and Python.
-- 💞️ I’m looking to collaborate on SQl , Tableau and Python.
+- 🌱 I’m currently learning SQL, Tableau, R.
+
 - 📫 How to reach me: msiskaallan@gmail.com
 
 <!---
